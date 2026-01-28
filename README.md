@@ -64,6 +64,9 @@ The following algorithms were implemented and compared:
 ```
 Customer-Churn-Prediction/
 │
+├── data/
+│ └── customer_churn.csv
+│
 ├── app.py
 ├── customer churn prediction.ipynb
 ├── final_gb_classifier.pkl
