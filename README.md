@@ -88,7 +88,17 @@ pip install -r requirements.txt
 ```
 streamlit run app.py
 ```
+
 ---
+👩‍💻 Author
+
+Anjali Panduga
+
+📧 Email: pandugaanjali2003@gmail.com
+
+🔗 GitHub: https://github.com/AnjaliPanduga
+---
+
 
 
 
