@@ -60,3 +60,14 @@ The following algorithms were implemented and compared:
 
 ---
 
+## 📂 Project Structure
+'''
+Customer-Churn-Prediction/
+│
+├── app.py
+├── customer churn prediction.ipynb
+├── final_gb_classifier.pkl
+├── requirements.txt
+├── README.md
+└── .gitignore
+'''
