@@ -71,3 +71,24 @@ Customer-Churn-Prediction/
 ├── README.md
 └── .gitignore
 ```
+---
+
+## ▶️ How to Run the Project
+
+### 1️⃣ Clone the Repository
+```
+git clone https://github.com/AnjaliPanduga/Customer-Churn-Prediction.git
+cd Customer-Churn-Prediction
+```
+### 2️⃣ Install Dependencies
+```
+pip install -r requirements.txt
+```
+### 3️⃣ Run the Streamlit Application
+```
+streamlit run app.py
+```
+---
+
+
+
