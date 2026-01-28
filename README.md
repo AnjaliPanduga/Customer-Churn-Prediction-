@@ -61,7 +61,7 @@ The following algorithms were implemented and compared:
 ---
 
 ## 📂 Project Structure
-'''
+```
 Customer-Churn-Prediction/
 │
 ├── app.py
@@ -70,4 +70,4 @@ Customer-Churn-Prediction/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
-'''
+```
